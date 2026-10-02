@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "stoic",
+  "versions": [
+    {
+      "commit": "9e14ad16dc52456d18f1c898d5c293a66d330d5e",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:20:29.066647+00:00"
+    }
+  ]
+}
