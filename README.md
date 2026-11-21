@@ -36,11 +36,16 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 85d0dcba13a37d549576778680a3ae83ab306435
+│   │   │   └── chunk-001.nq.gz
 │   │   └── 9e14ad16dc52456d18f1c898d5c293a66d330d5e
 │   │       └── chunk-001.nq.gz
 │   ├── lsp
+│   │   ├── 85d0dcba13a37d549576778680a3ae83ab306435.nq.gz
 │   │   └── 9e14ad16dc52456d18f1c898d5c293a66d330d5e.nq.gz
 │   └── repolex
+│       ├── 85d0dcba13a37d549576778680a3ae83ab306435
+│       │   └── chunk-001.nq.gz
 │       └── 9e14ad16dc52456d18f1c898d5c293a66d330d5e
 │           └── chunk-001.nq.gz
 └── blob
@@ -154,6 +159,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── 77b8c062d3c13ca374f21902de1f51a25c8ba1a5.nq.gz
     ├── 78ee52fb654f62c3ed792512223f597aa89b4f09.nq.gz
     ├── 7a3e4eb3caf2456bf55c7d5632265d33292d4219.nq.gz
+    ├── 7aa6aeec080c8bf0ded3f86122ba851ba47242aa.nq.gz
     ├── 7ae989dcaa4ab93df4939742c36fe9b63670a61b.nq.gz
     ├── 7b03b3c37dfc103725c96120663f45925d9b54ce.nq.gz
     ├── 7bb69a6a041d1068ef3102db5fc689d753415dba.nq.gz
@@ -236,13 +242,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── ebf4d3f8bef2e0c9ee468baeb6a054883953ee28.nq.gz
     ├── ee537c9e57e641a8657eec4cd3a88443e57c5553.nq.gz
     ├── ef2c48cdce11d5d4727d1fdde82ab9c4f7d6657c.nq.gz
-    ├── ef9e7dc7b08909023feb1e76b360d36e441f76f3.nq.gz
-    ├── f0f88c746166f6211b6d8138ffedbbf4a4e0867c.nq.gz
-    ├── f222931e0c5fa1af0627cafe2f91f0d5b3bb1f32.nq.gz
-    ├── f3c8b010148d4422250a1d5b5c695e7d698fe4ec.nq.gz
-    └── f589c4128297b0483d18b0444a6a0bb1c63d5fcf.nq.gz
+    └── ef9e7dc7b08909023feb1e76b360d36e441f76f3.nq.gz
 
-8 directories, 200 files
+10 directories, 200 files
 ```
 
 | Directory | What it contains |
@@ -263,4 +265,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [block/stoic](https://github.com/block/stoic)
 
 ---
-*Parsed on 2026-10-02 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-21 by [repolex](https://repolex.ai)*

@@ -3,6 +3,11 @@
   "repo": "stoic",
   "versions": [
     {
+      "commit": "85d0dcba13a37d549576778680a3ae83ab306435",
+      "tag": "v0.9.1",
+      "parsed_at": "2026-11-21T23:13:11.669691+00:00"
+    },
+    {
       "commit": "9e14ad16dc52456d18f1c898d5c293a66d330d5e",
       "tag": "main",
       "parsed_at": "2026-10-02T10:20:29.066647+00:00"
